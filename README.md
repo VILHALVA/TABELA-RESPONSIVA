@@ -22,27 +22,7 @@ A página HTML cria uma tabela responsiva que exibe dados de vendas de produtos 
 5. **Responsividade:**
    - A tabela é responsiva, o que significa que pode ser visualizada em dispositivos de diferentes tamanhos de tela sem comprometer a legibilidade dos dados.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/TABELA-RESPONSIVA.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd TABELA-RESPONSIVA
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip TABELA-RESPONSIVA.zip
-```
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Visualização Inicial:**
    - Ao abrir a página HTML (`CODIGO.html`) no navegador, você verá a tabela completa exibindo os dados de vendas de produtos ao longo do ano.
 
@@ -60,9 +40,9 @@ unzip TABELA-RESPONSIVA.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
